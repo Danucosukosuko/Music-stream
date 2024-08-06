@@ -37,3 +37,6 @@ Selecciona el tamaño y pon en la barra de direcciones [http://localhost:8087/](
 ![image](https://github.com/user-attachments/assets/dce13a6d-1c60-41b2-98ad-4b5e00b3e489)
 
 Y ya está. Ya solo faltaría emitirlo en los servicios que quieras
+
+
+Hecho en Raspberry Pi 5
