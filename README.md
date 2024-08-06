@@ -8,10 +8,7 @@ En `Linux`
 
 Instala PHP con:
 
-`sudo apt update
-
-sudo apt install php
-`
+`sudo apt update && sudo apt install php`
 
 Luego haz un `git clone https://github.com/Danucosukosuko/Music-stream`
 
