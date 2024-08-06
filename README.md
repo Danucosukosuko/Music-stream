@@ -9,6 +9,7 @@ En `Linux`
 Instala PHP con:
 
 `sudo apt update
+
 sudo apt install php
 `
 
