@@ -1,4 +1,4 @@
-# Music stream - Para hacer streams en Twitch o en YouTube
+# Music stream - Para hacer streams de música en Twitch o en YouTube
 
 Este código en php es útil para cuando quieras hacer un stream en Twitch de música o en YouTube por ejemplo de música Lo-Fi y no sabes como hacer un stream autónomo que elija las canciones aleatoriamente.
 
