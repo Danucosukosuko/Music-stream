@@ -32,7 +32,7 @@ Ponle nombre:
 
 ![image](https://github.com/user-attachments/assets/24952a5e-e71b-42f7-92dd-fb072e2353b8)
 
-Selecciona el tamaño y pon en la barra de direcciones http://localhost:8087/:
+Selecciona el tamaño y pon en la barra de direcciones [http://localhost:8087/](http://localhost:8087/):
 
 ![image](https://github.com/user-attachments/assets/dce13a6d-1c60-41b2-98ad-4b5e00b3e489)
 
