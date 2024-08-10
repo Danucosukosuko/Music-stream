@@ -14,7 +14,7 @@ Luego haz un `git clone https://github.com/Danucosukosuko/Music-stream`
 
 Luego un `cd Music-stream`
 
-y luego haz un `sudo php -S 0.0.0.0:8087
+y luego haz un `sudo php -S 0.0.0.0:8087`
 
 Y luego entra en OBS Studio o el programa que utilices (En este caso: OBS)
 
